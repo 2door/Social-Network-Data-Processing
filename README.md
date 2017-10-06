@@ -6,7 +6,8 @@ Module teaches about data structures (and their efficiency and use) and algorith
 ## Purpose
 To develop Java classes which store manipulate user data and their post on a fictional social media website named Witter.
 Tests included requesting specific sets of data (e.g. top users, top tags, top posts, most recent posts).
->note: data was sent in random order
+> note: data was sent in random order.
+
 Assesment based on correctness of results, efficiency, memory usage and quality of code.
 
 ## Mark
