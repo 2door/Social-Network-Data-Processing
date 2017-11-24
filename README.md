@@ -1,4 +1,4 @@
-# CS126-Coursework
+# Social Network Data Processing
 ## Context
 Coursework for first year module CS126 Design of Information Structures.
 Module teaches about data structures (and their efficiency and use) and algorithms used to process these.
