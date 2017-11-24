@@ -13,6 +13,7 @@ Assesment based on correctness of results, efficiency, memory usage and quality 
 ## Mark
 96% for Coursework.
 90% module total.
+Runner-up for Morgan Stanley prize.
 
 ## Classes
 ### FollowerStore
